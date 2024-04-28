@@ -39,7 +39,7 @@ npm install
 npm run dev
 ```
 - **OR**
-- if npm run dev is giving error then run tha frontend and backend individually 
+- if npm run dev is giving error then run the frontend and backend individually 
 ```bash
 cd frontend
 npm run client
