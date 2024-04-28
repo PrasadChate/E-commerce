@@ -30,7 +30,22 @@ This project is an E-commerce website built using the MERN (MongoDB, Express.js,
 git clone https://github.com/PrasadChate/E-commerce.git
 ```
 2.Install dependencies:
-```
+```bash
 cd e-commerce-website
-npm install```
+npm install
+```
+3.Start the development server:
+```bash
+npm run dev
+```
+**OR**
+-if npm run dev is giving error then run tha frontend and backend individually 
+```bash
+cd frontend
+npm run client
+```
+```bash
+cd backend
+npm run server
+```
 
